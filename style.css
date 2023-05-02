@@ -1,0 +1,37 @@
+
+.carousel-caption{
+    position: absolute;
+    right: 15%;
+    bottom: 31.25rem;
+    left: 15%;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+    color: #fff;
+    text-align: center;
+    color: blue;
+
+    
+}
+.test{
+    color: red;
+}
+#testing{
+    color: white;
+    bottom: 31.20rem;
+    font-size: large;
+}
+.carousel-item img{
+    /* height: 500px ; */
+}
+.fw-normal {
+    margin-top: 83px;
+}
+.contactpage h1{
+    color: rgb(56, 56, 52);
+    justify-content: center;
+    align-items: center;
+    margin-left: 45%;
+}
+.updateform{
+    margin: auto;
+}
